@@ -1,0 +1,6 @@
+This is a skeleton for CS 111 Lab 1.
+
+Replace this README file with notes on your implementation.
+Mentions any special features or limitations.
+
+I made a stack of struct commands as told in discussion. I then followed the postfix to infix algorithm that Tuan told us about. I then created errors for test cases and such. My partner is Lily Liao.
